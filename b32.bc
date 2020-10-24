@@ -1,0 +1,43 @@
+-I"C:\Des\Build\bcc18\include;C:\Des\Build\fwh18\include;C:\Des\Build\xhb18\include;;" +
+-L"C:\Des\Build\bcc18\lib;C:\Des\Build\bcc18\lib\psdk;C:\Des\Build\fwh18\lib;C:\Des\Build\xhb18\lib;;;;;" +
+-aa +
+-Gn -Tpe -s -v +
+c0w32.obj +    
+"C:\Des\Fivewin-Exemplo\principal.obj", + 
+"C:\Des\Fivewin-Exemplo\exemplo.EXE", +   
+"C:\Des\Fivewin-Exemplo\exemplo.map", +   
+FiveHx.lib FiveHC.lib +
+rtl.lib +      
+vm.lib +       
+gtgui.lib  + 
+lang.lib +     
+macro.lib +    
+rdd.lib +      
+codepage.lib + 
+dbfntx.lib +   
+dbfcdx.lib +   
+dbffpt.lib +   
+hbsix.lib    + 
+common.lib +   
+pp.lib +       
+ct.lib +       
+lang.lib +       
+pcrepos.lib +       
+png.lib +       
+tip.lib +       
+zlib.lib +       
+hbzip.lib +       
+libmisc.lib +       
+debug.lib + 
+cw32.lib +     
+import32.lib + 
+ws2_32.lib + 
+odbc32.lib +
+nddeapi.lib +
+iphlpapi.lib +
+rasapi32.lib +
+shell32.lib +
+msimg32.lib +
+psapi.lib +
+gdiplus.lib +
+,
